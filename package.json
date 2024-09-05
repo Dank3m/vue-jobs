@@ -9,8 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "primeicons": "^7.0.0",
     "vue": "^3.4.29",
-    "vue-crash-2024": "file:"
+    "vue-crash-2024": "file:",
+    "vue-router": "^4.4.3"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
